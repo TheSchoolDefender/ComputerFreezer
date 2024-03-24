@@ -8,7 +8,7 @@ fork and go to vercel hosting, login and host the project
 go to tinyurl.com and input it in. put something unsuspecting like (and these do work if u are to lazy to do your link)
 1. https://tinyurl.com/secretembeditem
 2. https://tinyurl.com/tabofknoledge
-3. https://tinyurl.com/skibidiLrizz
+3. [https://tinyurl.com/skibidiLrizz](https://tinyurl.com/ohiorizzL)
 
 its endless
 
